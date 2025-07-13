@@ -1,0 +1,7 @@
+menu "Coexistence Forcing"
+    config ESP32_WIFI_BT_COEXIST
+        bool "WiFi/BT Coexistence"
+        default y
+        help
+            Force-enable coexistence
+endmenu

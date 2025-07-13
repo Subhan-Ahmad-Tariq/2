@@ -1,0 +1,32 @@
+{
+    "server": {
+      "port": 5000,
+      "host": "localhost"
+    },
+    "database": {
+      "url": "mongodb://localhost:27017/smart_tank",
+      "options": {
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useCreateIndex": true
+      }
+    },
+    "mqtt": {
+      "broker": {
+        "port": 1883,
+        "host": "localhost"
+      },
+      "options": {
+        "keepalive": 60,
+        "clean": true
+      }
+    },
+    "jwt": {
+      "secret": "your-secret-key-here",
+      "expiresIn": "24h"
+    },
+    "logging": {
+      "level": "info",
+      "file": "logs/server.log"
+    }
+  }

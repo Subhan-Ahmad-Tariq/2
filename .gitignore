@@ -1,0 +1,45 @@
+# --- Node.js ---
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# --- Python ---
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Logs ---
+*.log
+
+# --- Cache ---
+.cache/
+coverage/
+tmp/
+*.tmp
+*.bak
+
+# --- Env Files ---
+.env
+.env.*
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Editor Configs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Misc ---
+*.sqlite
+*.db
+*.mp4
+*.mkv
+*.zip
+*.tar
+*.rar

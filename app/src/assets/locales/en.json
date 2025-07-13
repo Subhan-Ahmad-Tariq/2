@@ -1,0 +1,43 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "remove": "Remove",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "confirm": "Confirm"
+  },
+  "auth": {
+    "welcome": "Welcome to Smart Tank",
+    "subtitle": "Monitor and control your water tank efficiently",
+    "getStarted": "Get Started",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "temperature": "Temperature",
+    "waterLevel": "Water Level",
+    "waterPurity": "Water Purity",
+    "pumpControl": "Pump Control",
+    "powerUsage": "Power Usage",
+    "tankCleaning": "Tank Cleaning"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "units": "Units",
+    "deviceInfo": "Device Information",
+    "removeDevice": "Remove Device"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "server": {
+      "port": 80,
+      "host": "0.0.0.0"
+    },
+    "database": {
+      "url": "mongodb://mongodb:27017/smart_tank",
+      "options": {
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useCreateIndex": true
+      }
+    },
+    "mqtt": {
+      "broker": {
+        "port": 1883,
+        "host": "mqtt-broker"
+      },
+      "options": {
+        "keepalive": 60,
+        "clean": true
+      }
+    },
+    "jwt": {
+      "secret": "${JWT_SECRET}",
+      "expiresIn": "24h"
+    },
+    "logging": {
+      "level": "error",
+      "file": "/var/log/smart-tank/server.log"
+    }
+  }

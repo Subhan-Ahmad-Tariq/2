@@ -1,0 +1,43 @@
+{
+  "common": {
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "delete": "حذف کریں",
+    "remove": "ہٹائیں",
+    "edit": "ترمیم کریں",
+    "back": "واپس",
+    "next": "اگلا",
+    "finish": "مکمل",
+    "confirm": "تصدیق کریں"
+  },
+  "auth": {
+    "welcome": "سمارٹ ٹینک میں خوش آمدید",
+    "subtitle": "اپنے پانی کے ٹینک کی نگرانی اور کنٹرول کریں",
+    "getStarted": "شروع کریں",
+    "login": "لاگ ان",
+    "register": "رجسٹر",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "confirmPassword": "پاس ورڈ کی تصدیق",
+    "forgotPassword": "پاس ورڈ بھول گئے؟",
+    "noAccount": "اکاؤنٹ نہیں ہے؟",
+    "haveAccount": "پہلے سے اکاؤنٹ ہے؟"
+  },
+  "dashboard": {
+    "temperature": "درجہ حرارت",
+    "waterLevel": "پانی کی سطح",
+    "waterPurity": "پانی کی صفائی",
+    "pumpControl": "پمپ کنٹرول",
+    "powerUsage": "بجلی کا استعمال",
+    "tankCleaning": "ٹینک کی صفائی"
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "language": "زبان",
+    "theme": "تھیم",
+    "notifications": "نوٹیفکیشنز",
+    "units": "یونٹس",
+    "deviceInfo": "ڈیوائس کی معلومات",
+    "removeDevice": "ڈیوائس ہٹائیں"
+  }
+}
